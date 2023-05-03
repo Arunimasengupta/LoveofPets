@@ -22,6 +22,8 @@ Here we have proper 6 pages 1.Home
  4.Services Page gives you the glimpse of the various services we provide to your pets like vetenary,massage sessions, grooming sessions,exercise sessions etc.
  
  5.Contact Us Page is for you to visit us and let us know any of your concerns.
+ 
+ Kindly Login/Register in each Page before Proceeding. 
                                                    
                                                    
                                                    ThankYou!!!
