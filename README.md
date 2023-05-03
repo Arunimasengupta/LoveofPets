@@ -2,10 +2,15 @@
 This website is created for the love of pets. Here you can adopt a pet or more. Buy pet supplies,provide supplies for the pets which are not adopted yet. Basically, This Page is for those who are in selfless love with animals and pets.
 
 Here we have proper 6 pages 1.Home 
+
                             2.Pet Care
+                            
                             3.Pet Adoption
+                            
                             4. Help Needed
+                            
                             5. Services
+                            
                             6. Contact us
                             
  1.In Pet Care Page we Offer you various pet supplies and pets foods. Kindly Login/Register before proceeding.
