@@ -9,8 +9,14 @@ Here we have proper 6 pages 1.Home
                             6. Contact us
                             
  1.In Pet Care Page we Offer you various pet supplies and pets foods. Kindly Login/Register before proceeding.
+ 
  2.In Pet Adoption Page we offer Adoption procedures of the pets and how to provide well being to the pets like grooming, medical care.
+ 
  3.Help Needed Page Shows if you want to donate any supplies or any type of care you want to provide for the remaining pets here.
+ 
  4.Services Page gives you the glimpse of the various services we provide to your pets like vetenary,massage sessions, grooming sessions,exercise sessions etc.
+ 
  5.Contact Us Page is for you to visit us and let us know any of your concerns.
-                                                    ThankYou!!!
+                                                   
+                                                   
+                                                   ThankYou!!!
