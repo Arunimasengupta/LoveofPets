@@ -1,0 +1,116 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav li {
+	margin-right: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.content {
+	margin: 50px;
+}
+
+.logout-btn {
+	text-align: center;
+	margin: 50px 0;
+}
+
+.logout-btn a {
+	color: #333;
+	background-color: #ccc;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+form label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+form input[type="text"],
+form input[type="password"],
+form input[type="submit"] {
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+	margin-bottom: 20px;
+}
+
+form input[type="submit"] {
+	background-color: #333;
+	color: #fff;
+	cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+	background-color: #666;
+}
+.login-btn {
+	text-align: center;
+	margin: 50px 0;
+}
+
+.login-btn a {
+	color: #333;
+	background-color: #ccc;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+	.login-btn {
+		margin: 20px 0;
+	}
+
+	.login-btn a {
+		padding: 8px 16px;
+	}
+}
+
+.logout-btn {
+	text-align: center;
+	margin: 50px 0;
+}
+
+.logout-btn a {
+	color: #333;
+	background-color: #ccc;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+	.logout-btn {
+		margin: 20px 0;
+	}
+
+	.logout-btn a {
+		padding: 8px 16px;
+	}
+}
