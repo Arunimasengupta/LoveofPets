@@ -25,7 +25,7 @@ Here we have proper 6 pages
  
  5.Contact Us Page is for you to visit us and let us know any of your concerns.
  
- Kindly Login/Register in each Page before Proceeding. 
+ Kindly Login/Register in each Page before Proceeding. website link:http://127.0.0.1:5500/index.html
                                                    
                                                    
                                                    ThankYou!!!
